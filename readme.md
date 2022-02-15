@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sprett](https://github.com/sprett)
+- 👨‍💻 All of my projects are available [Here](https://github.com/sprett?tab=repositories)
 
 - 📫 How to reach me **dino.hukanovic@gmail.com**
 
