@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dino.hukanovic@gmail.com**
 
-- ⚡ Fun fact **I'm also a Drone Operator**
+- ⚡ Fun fact **I'm also a DJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
