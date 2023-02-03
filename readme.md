@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprett&label=Profile%20views&color=0e75b6&style=flat" alt="sprett" /> </p>
 
-- 🔭 I’m currently working on [Bakka E-SPORT](https://bakkaesport.no/)
+- 🔭 I’m currently working on [Elvebakkenrevyen](https://www.elvebakkenrevyen.no/)
 
 - 🌱 I’m currently learning **Backend Development**
 
