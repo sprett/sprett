@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Personal projects]()
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **programming and system architecture**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/sprett?tab=repositories)
 
@@ -17,6 +17,9 @@
 <p align="left">
 <a href="https://codesandbox.com/sprett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sprett" height="30" width="40" /></a>
 <a href="https://instagram.com/sprett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sprett" height="30" width="40" /></a>
+</p>
+<p align ="right">
+  <div class="badge-base LI-profile-badge" data-locale="no_NO" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dinohuk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/dinohuk?trk=profile-badge">Dino Hukanovic</a></div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
