@@ -1,3 +1,4 @@
+<head><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></head>
 <h1 align="center">Hi 👋, I'm Dino</h1>
 <h3 align="center">A Creative Developer From Norway</h3>
 
@@ -19,7 +20,7 @@
 <a href="https://instagram.com/sprett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sprett" height="30" width="40" /></a>
 </p>
 <p align ="right">
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  
   <div class="badge-base LI-profile-badge" data-locale="no_NO" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dinohuk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/dinohuk?trk=profile-badge">Dino Hukanovic</a></div>
 </p>
 
