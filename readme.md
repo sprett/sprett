@@ -7,7 +7,5 @@
 I'm a software developer and content creator. I love building cool things with code, sharing what I learn, and connecting with the dev community.
 
 - 💻 Currently working on web & mobile projects
-- 🎥 Streaming dev + chill chats on [Twitch](https://twitch.tv/DevSprett)
 - 🌱 Always learning something new
 
-Let's build something awesome together 🚀
